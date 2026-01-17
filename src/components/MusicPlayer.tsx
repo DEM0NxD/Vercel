@@ -85,7 +85,7 @@ const MusicPlayer = ({ tracks }: MusicPlayerProps) => {
   return (
     <div className="mt-6">
       <p className="text-xs text-muted-foreground mb-1">
-        currently in rotation — a personal collection of music i've been listening to lately
+        listen this music !!
       </p>
       <div className="content-section space-y-2">
         {/* Track info */}
