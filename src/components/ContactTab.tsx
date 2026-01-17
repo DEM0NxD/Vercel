@@ -12,7 +12,7 @@ const contacts: ContactLink[] = [
     icon: <MessageCircle size={14} />,
     label: 'Discord',
     value: 'Axel',
-    href: 'https://discord.com/users/.7axl',
+    href: 'https://discord.com/users/1297729779105009725',
   },
   {
     icon: <Github size={14} />,
