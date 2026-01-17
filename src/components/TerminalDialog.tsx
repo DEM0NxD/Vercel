@@ -48,13 +48,13 @@ const TerminalDialog = ({ open, onOpenChange }: TerminalDialogProps) => {
   5. clear   - Clear terminal`;
         break;
       case 'server':
-        response = '🎮 Discord Server: discord.gg/aerox';
+        response = '🎮 Discord Server: https://discord.gg/TTgafMyC';
         break;
       case 'about':
         response = `👤 About Me:
   Name: Axel
   Age: N/A
-  Profession: Graphic Design / Web Development`;
+  Profession: IDK :)`;
         break;
       case 'webinfo':
         response = `🌐 Website Info:
